@@ -17,7 +17,7 @@ import { DbzModule } from './dbz/dbz.module';
     AppRoutingModule,
     CounterModule,
     HeroesModule,
-    DbzModule
+    DbzModule,
 
   ],
   providers: [],
